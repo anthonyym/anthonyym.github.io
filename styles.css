@@ -1,0 +1,35 @@
+* {
+    font-family: "Arial";
+  }
+  
+  .top {
+    border: 5px outset blue;
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #121212;
+    margin: auto;
+    max-width: 50em;
+    line-height: 1.5;
+  }
+  h1 {
+    color: #3700B3;
+  }
+  
+  h2 {
+    color: #3700B3;
+  }
+  
+  h3 {
+    color: #3700B3;
+  }
+  
+  p {
+    color: #FFFFFF;
+  }
+  
+  li {
+    color: #FFFFFF;
+  }
